@@ -1,0 +1,14 @@
+persist
+config
+gitflow
+*.db
+*.log
+.*.swp
+*.pyc
+*.orig
+.project
+.geany
+*.sublime-project
+*.sublime-workspace
+.idea/
+plugins/data/GeoLiteCity.dat

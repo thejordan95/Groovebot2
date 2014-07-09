@@ -1,0 +1,34 @@
+Thanks to everyone who has contributed to CloudBot! Come in IRC and ping me if I forgot anyone.
+
+Luke Rogers (lukeroge)
+Neersighted
+blha303
+cybojenix
+KsaRedFx
+nathanblaney
+thenoodle68
+nasonfish
+urbels
+puffrfish
+Sepero
+TheFiZi
+mikeleigh
+Spudstabber
+frozenMC
+frdmn
+
+
+
+We are using code from the following projects:
+./plugins/mlia.py - https://github.com/infinitylabs/UguuBot
+./plugins/horoscope.py - https://github.com/infinitylabs/UguuBot
+color section in ./plugins/utility.py - https://github.com/hitzler/homero
+
+Special Thanks:
+Rmmh (created skybot!)
+lahwran (for his advice and stuff I stole from his skybot fork!)
+TheNoodle (for helping with some plugins when I was first starting out)
+
+If any of your code is in here and you don't have credit, I'm sorry. I didn't keep track of a lot of code I added in the early days of the project.
+
+You are all awesome :)
